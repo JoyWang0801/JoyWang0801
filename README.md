@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy Wang</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate developer from Canada</h3>
 
 - 📫 How to reach me **wyihan0319@gmail.com**
 
